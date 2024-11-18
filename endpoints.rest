@@ -17,7 +17,7 @@ POST {{apiUrl}}recipe/add
 Content-Type: application/json
 
 {
-	"title": "Brown Sugar Apple Pie",
+	"title": "Brown Sugar Apple Pie 2",
 	"image": "https://images.pexels.com/photos/5836631/pexels-photo-5836631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 	"description": "A delicious apple pie with a brown sugar twist.",
 	"ingredients": [
